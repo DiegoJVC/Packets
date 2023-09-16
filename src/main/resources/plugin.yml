@@ -1,0 +1,7 @@
+name: Packets
+version: 1.85
+author: CobelPvP Development Team
+
+main: com.comphenix.protocol.ProtocolLibrary
+load: startup
+database: false
